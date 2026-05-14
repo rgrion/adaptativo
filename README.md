@@ -34,7 +34,7 @@ A adaptação da trilha de aprendizagem ocorre automaticamente, direcionando o e
 │   ├── ux.html
 │   └── finalagradecimento.html
 │
-├── apps_script/
+├── google_script/
 │   ├── sheet_utils.js
 │   ├── routing.js
 │   ├── fuzzy.js
@@ -43,7 +43,8 @@ A adaptação da trilha de aprendizagem ocorre automaticamente, direcionando o e
 │   └── userx.js
 │   └── aluno_registro.js
 │
-└── ia_generativa.xlsx
+├── LICENSE
+└── README.md
 ```
 
 ---
