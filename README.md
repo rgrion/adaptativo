@@ -44,14 +44,15 @@ A adaptação da trilha de aprendizagem ocorre automaticamente, direcionando o e
 │   └── aluno_registro.js
 │
 ├── LICENSE
-└── README.md
+├── README.md
+└── adaptativo.xlsx
 ```
 
 ---
 
 ## 🗂️ Planilha Base do Curso
 
-O arquivo **`ia_generativa.xlsx`** é a **planilha-base do curso**.
+O arquivo **`adaptativo.xlsx`** é a **planilha-base do curso**.
 
 Ela armazena:
 
@@ -69,8 +70,8 @@ Ela armazena:
 
 ### 1️⃣ Upload da Planilha no Google Drive
 
-1. Faça o upload do arquivo **`ia_generativa.xlsx`** para o seu Google Drive
-2. Abra a planilha no Google Sheets
+1. Faça o upload do arquivo **`adaptativo.xlsx`** para o seu Google Drive
+2. Converta e abra a planilha para Google Sheets
 
 ---
 
